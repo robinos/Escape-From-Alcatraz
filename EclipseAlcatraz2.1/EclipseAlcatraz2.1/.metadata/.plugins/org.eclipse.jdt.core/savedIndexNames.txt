@@ -1,0 +1,1 @@
+INDEX VERSION 1.121+C:\Users\Robin\Dropbox\ObjectorientedProject\EclipseAlcatraz\.metadata\.plugins\org.eclipse.jdt.core
